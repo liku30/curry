@@ -1,15 +1,15 @@
-# curry
-一只自定义 Codex pet（Curry），已打包供本地安装，并附带完整的生成素材存档。
 Curry
-<img width="778" height="1252" alt="d140755abba34d95d7aeaeaa7e5f003a" src="https://github.com/user-attachments/assets/cee63763-f96a-4a2f-bc77-d3ac903ab3df" />
+一只自定义 Codex pet（Curry），已打包供本地安装，并附带完整的生成素材存档。
 
+Pet
+Curry
 Curry 是一只受到 Stephen Curry 启发的 Q 版篮球投手 Codex 数字宠物，拥有短短的深色头发、温暖的棕色肤色、蓝金配色篮球服、橙色篮球道具和专注又友好的神情。
 
 包文件：
 
 pets/curry/pet.json
 pets/curry/spritesheet.webp
-
+Curry 动画帧总览
 
 仓库结构
 pets/
